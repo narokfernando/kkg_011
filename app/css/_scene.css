@@ -1,0 +1,13 @@
+#scene {
+	position: relative;
+	width: 800px;
+	height: 600px;
+	margin: 10% auto;
+	text-align: center;
+	user-select: none;
+}
+.step {
+	position: absolute;
+	width: 100px;
+	height: 60px;
+}

@@ -1,0 +1,19 @@
+/* COINS */
+.coins.golden {
+	width: 20px;
+	aspect-ratio: 1/1.7;
+	background: url('/db/treasures/coins/coins-golden.gif') center center no-repeat;
+	background-size: contain;
+	border-radius: 50%;
+	overflow: hidden;
+	text-indent: -900px;
+}
+.coins.silver {
+	width: 20px;
+	aspect-ratio: 1/1.7;
+	background: url('/db/treasures/coins/coins-silver.gif') center center no-repeat;
+	background-size: contain;
+	border-radius: 50%;
+	overflow: hidden;
+	text-indent: -900px;
+}

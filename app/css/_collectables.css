@@ -1,0 +1,37 @@
+.collectable,.treasure {
+	position: absolute;
+	outline: 1px solid yellow;
+}
+
+/* HEROES */
+.collectable.collectable-heroes {
+	width: 40px;
+	aspect-ratio: 1/1.7;
+}
+.collectable.collectable-heroes.lu {
+	background: rgba(0,0,100,0.6);
+}
+.collectable.collectable-heroes.arthur {
+	background: rgba(100,0,0,0.6);
+}
+.collectable.collectable-heroes.sarah {
+	background: rgba(100,100,0,0.6);
+}
+.collectable.collectable-heroes.donna {
+	background: rgba(40,0,100,0.6);
+}
+.collectable.collectable-heroes.molly {
+	background: rgba(200,200,150,0.6);
+}
+.collectable.collectable-heroes.shiny {
+	background: rgba(0,0,0,1);
+}
+
+/* DICES */
+
+.collectable.collectable-dices, .collectable.collectable-swords,.collectable.collectable-spells, .collectable.collectable-shields, .collectable.collectable-maps, .collectable.collectable-pages, .collectable.collectable-specialcards {
+	width: 60px;
+	aspect-ratio: 1/1;
+	background: rgba(255,255,255,0.4);
+	border-radius: 50%;
+}

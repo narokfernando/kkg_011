@@ -1,0 +1,402 @@
+/* entry */
+#scene.entry {
+	width: 800px;
+	height: 600px;
+	outline: 1px solid red;
+}
+#scene.entry .step{
+	outline: 1px solid red;
+}
+#scene.entry #s1 {
+	top: 200px;
+	left: 400px;
+}
+
+
+
+/* m */
+#scene.m {
+	width: 800px;
+	height: 600px;
+	outline: 1px solid greenyellow;
+}
+#scene.m .step{
+	outline: 1px solid greenyellow;
+}
+
+#scene.m #s1 {
+	top: 400px;
+	left: 0px;
+}
+#scene.m #s2 {
+	top: 300px;
+	left: 50px;
+}
+#scene.m #s3 {
+	top: 200px;
+	left: 100px;
+}
+#scene.m #s4 {
+	top: 150px;
+	left: 200px;
+}
+#scene.m #s5 {
+	top: 200px;
+	left: 300px;
+}
+#scene.m #s6 {
+	top: 150px;
+	left: 400px;
+}
+#scene.m #s7 {
+	top: 100px;
+	left: 500px;
+}
+#scene.m #s8 {
+	top: 150px;
+	left: 600px;
+}
+#scene.m #s9 {
+	top: 250px;
+	left: 650px;
+}
+#scene.m #s10 {
+	top: 350px;
+	left: 700px;
+}
+
+#scene.m #s5-1 {
+	top: 300px;
+	left: 350px;
+}
+#scene.m #s5-2 {
+	top: 400px;
+	left: 400px;
+}
+#scene.m #s5-3 {
+	top: 100px;
+	left: 450px;
+}
+#scene.m #s5-4 {
+	top: 0px;
+	left: 400px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* w */
+#scene.w {
+	width: 800px;
+	height: 600px;
+	outline: 1px solid purple;
+}
+#scene.w .step{
+	outline: 1px solid purple;
+}
+
+#scene.w #s1 {
+	top: 200px;
+	left: 0px;
+}
+#scene.w #s2 {
+	top: 300px;
+	left: 50px;
+}
+#scene.w #s3 {
+	top: 400px;
+	left: 100px;
+}
+#scene.w #s4 {
+	top: 450px;
+	left: 200px;
+}
+#scene.w #s5 {
+	top: 400px;
+	left: 300px;
+}
+#scene.w #s6 {
+	top: 450px;
+	left: 400px;
+}
+#scene.w #s7 {
+	top: 500px;
+	left: 500px;
+}
+#scene.w #s8 {
+	top: 450px;
+	left: 600px;
+}
+#scene.w #s9 {
+	top: 350px;
+	left: 650px;
+}
+#scene.w #s10 {
+	top: 250px;
+	left: 700px;
+}
+
+#scene.w #s5-1 {
+	top: 300px;
+	left: 350px;
+}
+#scene.w #s5-2 {
+	top: 200px;
+	left: 400px;
+}
+#scene.w #s5-3 {
+	top: 100px;
+	left: 450px;
+}
+#scene.w #s5-4 {
+	top: 0px;
+	left: 400px;
+}
+
+
+
+
+
+
+
+
+/* y */
+#scene.y {
+	width: 800px;
+	height: 900px;
+	outline: 1px solid green;
+}
+#scene.y .step{
+	outline: 1px solid green;
+}
+
+#scene.y #s1 {
+	top: 200px;
+	left: 0px;
+}
+#scene.y #s2 {
+	top: 300px;
+	left: 50px;
+}
+#scene.y #s3 {
+	top: 400px;
+	left: 100px;
+}
+#scene.y #s4 {
+	top: 450px;
+	left: 200px;
+}
+#scene.y #s5 {
+	top: 500px;
+	left: 300px;
+}
+#scene.y #s6 {
+	top: 450px;
+	left: 400px;
+}
+#scene.y #s7 {
+	top: 400px;
+	left: 500px;
+}
+#scene.y #s8 {
+	top: 350px;
+	left: 600px;
+}
+#scene.y #s9 {
+	top: 250px;
+	left: 650px;
+}
+#scene.y #s10 {
+	top: 150px;
+	left: 700px;
+}
+
+#scene.y #s5-1 {
+	top: 600px;
+	left: 350px;
+}
+#scene.y #s5-2 {
+	top: 700px;
+	left: 400px;
+}
+#scene.y #s5-3 {
+	top: 750px;
+	left: 500px;
+}
+#scene.y #s5-4 {
+	top: 800px;
+	left: 600px;
+}
+
+
+
+
+/* u */
+#scene.u {
+	width: 800px;
+	height: 600px;
+	outline: 1px solid red;
+}
+#scene.u .step{
+	outline: 1px solid red;
+}
+#scene.u #s1 {
+	top: 200px;
+	left: 0px;
+}
+#scene.u #s2 {
+	top: 300px;
+	left: 50px;
+}
+#scene.u #s3 {
+	top: 400px;
+	left: 100px;
+}
+#scene.u #s4 {
+	top: 450px;
+	left: 200px;
+}
+#scene.u #s5 {
+	top: 500px;
+	left: 300px;
+}
+#scene.u #s6 {
+	top: 500px;
+	left: 400px;
+}
+#scene.u #s7 {
+	top: 450px;
+	left: 500px;
+}
+#scene.u #s8 {
+	top: 400px;
+	left: 600px;
+}
+#scene.u #s9 {
+	top: 300px;
+	left: 650px;
+}
+#scene.u #s10 {
+	top: 200px;
+	left: 700px;
+}
+
+
+
+
+
+
+
+/* reversed-u */
+#scene.reversed-u {
+	width: 800px;
+	height: 600px;
+	outline: 1px solid lightblue;
+}
+#scene.reversed-u .step{
+	outline: 1px solid lightblue;
+}
+#scene.reversed-u #s1 {
+	top: 500px;
+	left: 0px;
+}
+#scene.reversed-u #s2 {
+	top: 400px;
+	left: 50px;
+}
+#scene.reversed-u #s3 {
+	top: 300px;
+	left: 100px;
+}
+#scene.reversed-u #s4 {
+	top: 250px;
+	left: 200px;
+}
+#scene.reversed-u #s5 {
+	top: 200px;
+	left: 300px;
+}
+#scene.reversed-u #s6 {
+	top: 200px;
+	left: 400px;
+}
+#scene.reversed-u #s7 {
+	top: 250px;
+	left: 500px;
+}
+#scene.reversed-u #s8 {
+	top: 300px;
+	left: 600px;
+}
+#scene.reversed-u #s9 {
+	top: 400px;
+	left: 650px;
+}
+#scene.reversed-u #s10 {
+	top: 500px;
+	left: 700px;
+}
+
+
+
+
+
+
+
+
+/* s-up */
+#scene.s-up {
+	width: 900px;
+	height: 600px;
+	outline: 1px solid green;
+}
+#scene.s-up .step{
+	outline: 1px solid green;
+}
+#scene.s-up #s1 {
+	top: 500px;
+	left: 0px;
+}
+#scene.s-up #s2 {
+	top: 400px;
+	left: 50px;
+}
+#scene.s-up #s3 {
+	top: 300px;
+	left: 100px;
+}
+#scene.s-up #s4 {
+	top: 250px;
+	left: 200px;
+}
+#scene.s-up #s5 {
+	top: 200px;
+	left: 300px;
+}
+#scene.s-up #s6 {
+	top: 200px;
+	left: 400px;
+}
+#scene.s-up #s7 {
+	top: 150px;
+	left: 500px;
+}
+#scene.s-up #s8 {
+	top: 100px;
+	left: 600px;
+}
+#scene.s-up #s9 {
+	top: 50px;
+	left: 700px;
+}
+#scene.s-up #s10 {
+	top: 0px;
+	left: 800px;
+}

@@ -1,0 +1,29 @@
+#scene {
+	width: 600px;
+	height: 400px;
+}
+#s1 {
+	top: 200px;
+	left: 280px;
+}
+
+#bushes1 {
+	top: 100px;
+	left: 80px;
+}
+#bushes2 {
+	top: 300px;
+	left: 480px;
+}
+#bushes3 {
+	top: 400px;
+	left: 380px;
+}
+#tree1 {
+	top: 100px;
+	left: 400px;
+}
+#tree2 {
+	top: 0px;
+	left: 100px;
+}

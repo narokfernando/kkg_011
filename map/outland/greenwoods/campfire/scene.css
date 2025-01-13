@@ -1,0 +1,94 @@
+#scene {
+	width: 600px;
+	height: 400px;
+}
+
+#bonfire {
+	top: 200px;
+	left: 280px;
+}
+#bushes1 {
+	top: 100px;
+	left: 80px;
+}
+#bushes2 {
+	top: 100px;
+	left: 480px;
+}
+#bushes3 {
+	top: 400px;
+	left: 480px;
+}
+#tree1 {
+	top: 0px;
+	left: 400px;
+}
+#tree2 {
+	top: 0px;
+	left: 200px;
+}
+
+#collectable-lu {
+	top: 200px;
+	left: 200px;
+}
+#collectable-sarah {
+	top: 100px;
+	left: 260px;
+}
+#collectable-arthur {
+	top: 100px;
+	left: 340px;
+}
+#collectable-donna {
+	top: 200px;
+	left: 400px;
+}
+#collectable-molly {
+	top: 300px;
+	left: 220px;
+}
+#collectable-shiny {
+	top: 300px;
+	left: 380px;
+}
+
+/* steps */
+
+
+#s1 {
+	top: 600px;
+    left: 100px;
+}
+#s2 {
+	top: 560px;
+    left: 200px;
+}
+#s3 {
+	top: 500px;
+	left: 280px;
+}
+#s4 {
+	top: 400px;
+	left: 240px;
+}
+#s4-2 {
+	top: 400px;
+	left: 340px;
+}
+#s5 {
+	top: 320px;
+	left: 160px;
+}
+#s6 {
+	top: 260px;
+	left: 240px;
+}
+#s7 {
+	top: 220px;
+	left: 340px;
+}
+#s8 {
+	top: 120px;
+	left: 440px;
+}
