@@ -27,6 +27,9 @@ function renderHeroes(){
 
 			//place on step
 			placeHero(h,game.collection.heroes[h].position.step);
+
+			//run controller
+			controller("move");
 			
 		}
 	}

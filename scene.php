@@ -9,11 +9,15 @@
 	<link rel="stylesheet" type="text/css" id="resetcss" href="/app/css/_ui.css">
 	<link rel="stylesheet" type="text/css" id="resetcss" href="/app/css/_reset.css">
 	<link rel="stylesheet" type="text/css" id="globalscenecss" href="/app/css/_scene.css">
+	<link rel="stylesheet" type="text/css" id="globalscenecss" href="/app/css/_scenery.css">
 	<link rel="stylesheet" type="text/css" id="pathcss" href="/app/css/_paths.css">
 	<link rel="stylesheet" type="text/css" id="collectcss" href="/app/css/_collect.css">
 	<link rel="stylesheet" type="text/css" id="collectablescss" href="/app/css/_collectables.css">
 	<link rel="stylesheet" type="text/css" id="collectablescss" href="/app/css/_heroes.css">
 	<link rel="stylesheet" type="text/css" id="regionscenery" href="">
+
+	<!-- db css -->
+	<link rel="stylesheet" type="text/css" id="coinscss" href="/db/treasures/coins/coins.css">
 
 	<!-- scene css -->
 	<link rel="stylesheet" type="text/css" id="scenecss" href="scene.css">
@@ -55,6 +59,7 @@
 	<!-- mechanics js -->
 	<script src="/app/js/_goto.js"></script>
 	<script src="/app/js/_collect.js"></script>
+	<script src="/app/js/_move.js"></script>
 	<script src="/app/js/_controller.js"></script>
 
 	<!-- run js -->

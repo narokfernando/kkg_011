@@ -1,7 +1,17 @@
 #scene {
 	width: 600px;
 	height: 400px;
+	outline: none !important;
 }
+
+#river {
+	top: 100px;
+	left: 300px;
+	z-index: -4;
+}
+
+
+
 
 #enemy1 {
 	top: 200px;
@@ -12,15 +22,42 @@
 	left: 400px;
 }
 
-#greenwoods {
-	top: 200px;
-	left: 100px;
-}
-#page1 {
-	top: 300px;
+
+#collectable-page1 {
+	top: 550px;
 	left: 200px;
 }
-#crystalball {
-	top: 100px;
+#collectable-greenwoods {
+	top: 300px;
 	left: 400px;
 }
+#collectable-crystalball {
+	top: 400px;
+	left: 600px;
+}
+
+
+
+
+#bushes1 {
+	top: 400px;
+	left: 150px;
+}
+#bushes2 {
+	top: 300px;
+	left: 450px;
+	z-index: -1;
+}
+#bushes3 {
+	top: 240px;
+	left: 550px;
+	z-index: -2;
+}
+
+
+
+#s4-2 {
+	top: 80px;
+	left: 180px;
+}
+

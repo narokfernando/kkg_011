@@ -1,6 +1,16 @@
 /* COINS */
+
+.coins {
+	position: absolute;
+}
+.coins:hover {
+	cursor: pointer;
+	filter: brightness(1.9) drop-shadow(0px 0px 10px);
+
+}
+
 .coins.golden {
-	width: 20px;
+	width: 40px;
 	aspect-ratio: 1/1.7;
 	background: url('/db/treasures/coins/coins-golden.gif') center center no-repeat;
 	background-size: contain;
@@ -9,7 +19,7 @@
 	text-indent: -900px;
 }
 .coins.silver {
-	width: 20px;
+	width: 40px;
 	aspect-ratio: 1/1.7;
 	background: url('/db/treasures/coins/coins-silver.gif') center center no-repeat;
 	background-size: contain;

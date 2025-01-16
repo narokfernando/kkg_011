@@ -6,9 +6,6 @@ var scene = {
 		}
 	},
 	"scenery":{
-		"campfire":{
-			"type":"campfire"
-		},
 		"tree1":{
 			"type":"trees"
 		},

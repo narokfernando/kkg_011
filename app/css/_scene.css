@@ -11,3 +11,9 @@
 	width: 100px;
 	height: 60px;
 }
+
+.goto:hover {
+	cursor: pointer;
+	background: #333;
+	outline: 1px solid #333;
+}
