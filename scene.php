@@ -30,8 +30,11 @@
 	<!-- dbs -->
 	<link rel="stylesheet" type="text/css" id="coinscss" href="/db/treasures/coins/coins.css">
 
-	<!-- local css -->
+	<!-- local -->
 	<link rel="stylesheet" type="text/css" id="scenecss" href="scene.css">
+
+	<!-- fx -->
+	<link rel="stylesheet" type="text/css" href="/fx/rain/_rain.css">
 	
 	<title id="title"></title>
 </head>
@@ -82,6 +85,9 @@
 
 	<!-- run js -->
 	<script src="/app/js/_run.js"></script>
+
+	<!-- fx js -->
+	<script src="/fx/rain/_rain.js"></script>
 
 
 </body>

@@ -1,7 +1,7 @@
 
 //HTML insert
-const itemHTML = `<div id="${item}" class="step">${item}</div>`;
-document.getElementById("scene").insertAdjacentHTML('beforeend',itemHTML);
+const html = `<div id="${item}" class="step">${item}</div>`;
+document.getElementById("scene").insertAdjacentHTML('beforeend',html);
 
 //Event Listener
 document.getElementById(item).addEventListener("click", function(){

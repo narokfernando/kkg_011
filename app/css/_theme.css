@@ -1,3 +1,7 @@
+body.light {
+	background: #ddd;
+}
+
 #theme-btn {
 	position: fixed;
 	width: 40px;
