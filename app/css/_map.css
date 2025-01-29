@@ -10,12 +10,14 @@
 	font-size: 2.5em;
 }
 
+/*
 .dark > #map-btn {
 	outline: 3px solid white;
 }
 .light > #map-btn {
 	outline: 3px solid black;
 }
+*/
 
 #overlay-map {
 	position: fixed;
