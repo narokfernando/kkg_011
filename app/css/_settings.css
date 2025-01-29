@@ -1,0 +1,93 @@
+#settings-btn {
+	position: fixed;
+	bottom: 20px;
+	left: 20px;
+	width: 40px;
+	height: 40px;
+	text-align: center;
+	line-height: 40px;
+	border-radius: 50%;
+	font-size: 1.5em;
+}
+
+#overlay-settings {
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+}
+
+.dark > #overlay-settings {
+	background: #111;
+}
+.light > #overlay-settings {
+	background: white;
+}
+
+#modal-settings {
+	position: fixed;
+	top: 10%;
+	left: 50%;
+	transform: translateX(-50%);
+	width: 80%;
+	max-width: 500px;
+	height: 80%;
+	text-align: center;
+}
+
+
+.settings-item .title {
+	opacity: 0.4;
+}
+.settings-item {
+	margin-top: 20px;
+}
+.settings-item > span {
+	padding: 10px 10px;
+}
+
+/*
+.settings-item:not(.click), .settings-item span > .click {
+    opacity: 0.4;
+}
+.settings-item
+*/
+#tabs-settings {
+	width: 100%;
+	margin-bottom: 10%;
+}
+.tab {
+	font-weight: bolder;
+	display: inline-block;
+	padding: 10px 20px 10px 0px;
+}
+
+.tab.click {
+	font-weight: lighter;
+	opacity: 0.4;
+}
+
+
+.settings-item-collection {
+	display: inline-block;
+	width: 80px;
+	height: 80px;
+	line-height: 80px;
+	text-align: center;
+	opacity: 0.4;
+	margin: 10px;
+	border-radius: 10px;
+	outline: 1px solid grey;
+}
+
+
+#close-settings-btn {
+	display: block;
+	text-align: center;
+	margin-top: 100px;
+}
+
+
+
+

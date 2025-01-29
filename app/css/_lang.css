@@ -1,0 +1,14 @@
+#lang-btn {
+	position: fixed;
+	top: 20px;
+	right: 60px;
+	text-align: center;
+	width: 80px;
+	height: 40px;
+	line-height: 40px;
+}
+
+.active-lang {
+	font-weight: bolder;
+	pointer-events: none;
+}

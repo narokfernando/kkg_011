@@ -1,3 +1,7 @@
-:root {
-  color-scheme: light dark;
+body {
+  user-select: none;
+}
+.click:hover {
+  cursor: pointer;
+  filter: brightness(0.8);
 }

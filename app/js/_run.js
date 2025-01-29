@@ -2,7 +2,6 @@ function run(){
 
 	//global
 	loadURL();
-	renderResetBtn();
 
 	//scene
 	loadscene();

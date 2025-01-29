@@ -7,7 +7,15 @@
 
 	<!-- global css -->
 	<link rel="stylesheet" type="text/css" id="resetcss" href="/app/css/_ui.css">
+	<link rel="stylesheet" type="text/css" href="/app/css/_theme.css">
+	<link rel="stylesheet" type="text/css" href="/app/css/_lang.css">
+	<link rel="stylesheet" type="text/css" href="/app/css/_settings.css">
+	<link rel="stylesheet" type="text/css" href="/app/css/_sound.css">
+	<link rel="stylesheet" type="text/css" href="/app/css/_map.css">
+	<link rel="stylesheet" type="text/css" href="/app/css/_inventory.css">
 	<link rel="stylesheet" type="text/css" id="resetcss" href="/app/css/_reset.css">
+
+	<!-- scene -->
 	<link rel="stylesheet" type="text/css" id="globalscenecss" href="/app/css/_scene.css">
 	<link rel="stylesheet" type="text/css" id="globalscenecss" href="/app/css/_scenery.css">
 	<link rel="stylesheet" type="text/css" id="pathcss" href="/app/css/_paths.css">
@@ -16,10 +24,13 @@
 	<link rel="stylesheet" type="text/css" id="collectablescss" href="/app/css/_heroes.css">
 	<link rel="stylesheet" type="text/css" id="regionscenery" href="">
 
-	<!-- db css -->
+	<!-- external -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet" />
+
+	<!-- dbs -->
 	<link rel="stylesheet" type="text/css" id="coinscss" href="/db/treasures/coins/coins.css">
 
-	<!-- scene css -->
+	<!-- local css -->
 	<link rel="stylesheet" type="text/css" id="scenecss" href="scene.css">
 	
 	<title id="title"></title>
@@ -34,9 +45,16 @@
 	<script id="scenejs" src="scene.js"></script>
 
 	<!-- global js -->
-	<script src="/app/js/_url.js"></script>
 	<script src="/app/js/_reset.js"></script>
 	<script src="/app/js/_save.js"></script>
+	<script src="/app/js/_url.js"></script>
+	<script src="/app/js/_lang.js"></script>
+	<script src="/app/js/_theme.js"></script>
+	<script src="/app/js/_sound.js"></script>
+	<script src="/app/js/_settings.js"></script>
+	<script src="/app/js/_map.js"></script>
+	<script src="/app/js/_inventory.js"></script>
+	
 	<script src="/app/js/_loadJS.js"></script>
 
 	<!-- game js -->

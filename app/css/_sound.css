@@ -1,0 +1,26 @@
+#soundbtn {
+	position: fixed;
+	top: 20px;
+	right: 20px;
+	width: 40px;
+	height: 40px;
+	text-align: center;
+	line-height: 40px;
+	border-radius: 50%;
+}
+
+#soundbtn:hover {
+	cursor: pointer;
+	filter: brightness(2);
+}
+#soundbtn:active {
+}
+
+
+.soundon {
+	opacity: 1;
+}
+
+.soundoff {
+	opacity: 0.4;
+}
