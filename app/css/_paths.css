@@ -5,7 +5,7 @@
 	outline: 1px solid red;
 }
 #scene.entry .step{
-	outline: 1px solid red;
+	/*outline: 1px solid red;*/
 }
 #scene.entry #s1 {
 	top: 200px;
@@ -21,7 +21,7 @@
 	outline: 1px solid greenyellow;
 }
 #scene.m .step{
-	outline: 1px solid greenyellow;
+	/*outline: 1px solid greenyellow;*/
 }
 
 #scene.m #s1 {
@@ -174,7 +174,7 @@
 	outline: 1px solid green;
 }
 #scene.y .step{
-	outline: 1px solid green;
+	/*outline: 1px solid green;*/
 }
 
 #scene.y #s1 {
@@ -245,39 +245,43 @@
 	outline: 1px solid red;
 }
 #scene.u .step{
-	outline: 1px solid red;
+	/*outline: 1px solid red;*/
 }
 #scene.u #s1 {
-	top: 200px;
+	top: 300px;
 	left: 0px;
 }
 #scene.u #s2 {
-	top: 300px;
+	top: 340px;
 	left: 50px;
 }
 #scene.u #s3 {
-	top: 400px;
-	left: 100px;
+	top: 370px;
+	left: 120px;
 }
 #scene.u #s4 {
-	top: 450px;
+	top: 400px;
 	left: 200px;
 }
+#scene.u #s4-2 {
+	top: 460px;
+	left: 140px;
+}
 #scene.u #s5 {
-	top: 500px;
+	top: 400px;
 	left: 300px;
 }
 #scene.u #s6 {
-	top: 500px;
+	top: 380px;
 	left: 400px;
 }
 #scene.u #s7 {
-	top: 450px;
-	left: 500px;
+	top: 360px;
+	left: 480px;
 }
 #scene.u #s8 {
-	top: 400px;
-	left: 600px;
+	top: 340px;
+	left: 550px;
 }
 #scene.u #s9 {
 	top: 300px;

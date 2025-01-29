@@ -10,10 +10,15 @@
 	position: absolute;
 	width: 100px;
 	height: 60px;
+	overflow: hidden;
+	text-indent: -900px;
+}
+.step:hover {
+	overflow: hidden;
+	text-indent: 0px;
+	outline: 1px dashed grey;
 }
 
 .goto:hover {
 	cursor: pointer;
-	background: #333;
-	outline: 1px solid #333;
 }

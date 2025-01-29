@@ -2,9 +2,25 @@
 	position: fixed;
 	bottom: 20px;
 	left: 20px;
+	width: 40px;
+	height: 40px;
+	background: grey;
+	z-index: 1000;
+	opacity: 0;
+}
+#reset-btn:hover {
+	opacity: 1;
 }
 #reset-scene-btn {
 	position: fixed;
 	bottom: 20px;
-	left: 70px;
+	left: 170px;
+	width: 40px;
+	height: 40px;
+	background: grey;
+	z-index: 1000;
+	opacity: 0;
+}
+#reset-scene-btn:hover {
+	opacity: 1;
 }

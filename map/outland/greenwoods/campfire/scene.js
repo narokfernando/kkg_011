@@ -90,7 +90,7 @@ var scene = {
 				"world":"outland",
 				"region":"greenwoods",
 				"scene":"entry",
-				"step":"s6"
+				"step":"s2"
 			}
 		},
 		"s6":{
