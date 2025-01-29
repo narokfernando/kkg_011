@@ -5,23 +5,30 @@
 	pointer-events: none;
 	z-index: 100;
 }
+
+.heroes.hero-left {
+	transform: scaleX(-1);
+}
+
 .lu {
-	background: rgba(0,0,100,0.6);
+	background: url('/db/heroes/lu/lu.gif') center center no-repeat;
+	background-size: contain;
 }
 .arthur {
-	background: rgba(100,0,0,0.6);
+	background: url('/db/heroes/arthur/arthur.gif') center center no-repeat;
+	background-size: contain;
 }
 .sarah {
-	background: rgba(100,100,0,0.6);
+	outline: 1px dashed grey;
 }
 .donna {
-	background: rgba(40,0,100,0.6);
+	outline: 1px dashed grey;
 }
 .molly {
-	background: rgba(200,200,150,0.6);
+	outline: 1px dashed grey;
 }
 .shiny {
-	background: rgba(0,0,0,1);
+	outline: 1px dashed grey;
 }
 
 

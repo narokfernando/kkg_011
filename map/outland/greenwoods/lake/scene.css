@@ -1,14 +1,21 @@
+body {
+	background: #001f00 url('../_db/_scenery/sky.gif') top center no-repeat;
+	background-size: 1000px;
+}
 #scene {
 	width: 600px;
-	height: 400px;
+	height: 800px !Important;
 	outline: none !important;
 }
 
 
 #lake {
-	top: 600px;
-	left: -100px;
+	bottom: 0px;
+	left: 50%;
+	transform: translateX(-50%);
+	width: 2000px;
 	z-index: -4;
+	filter: saturate(0%) brightness(1.4);
 }
 
 #enemy1 {

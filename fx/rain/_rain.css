@@ -6,7 +6,7 @@
   height: 100vh;
   overflow: hidden;
   pointer-events: none;
-  background: url(rain.gif) top center repeat, url(rain2.gif) top left repeat;
+  background: url(rain.gif) top center repeat, url(rain2.gif) top left repeat, url(rain.gif) bottom left repeat;
   background-size: 1000px;
   opacity: 0.8;
   transform: rotate(15deg);

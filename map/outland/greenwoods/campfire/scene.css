@@ -1,3 +1,7 @@
+body {
+	background: #001f00 url('../_db/_scenery/sky.gif') top center no-repeat;
+	background-size: 1000px;
+}
 #scene {
 	width: 600px;
 	height: 700px !important;
@@ -42,22 +46,25 @@
 #collectable-lu {
 	top: 200px;
 	left: 200px;
+	width: 100px;
 }
 #collectable-sarah {
 	top: 100px;
 	left: 260px;
 }
-
+#collectable-arthur {
+	top: 100px;
+	left: 440px;
+	width: 100px;
+	transform: scaleX(-1);
+}
 
 #collectable-molly {
 	top: 300px;
 	left: 220px;
 }
 
-#collectable-arthur {
-	top: 100px;
-	left: 440px;
-}
+
 #collectable-donna {
 	top: 200px;
 	left: 510px;

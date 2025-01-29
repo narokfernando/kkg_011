@@ -1,3 +1,7 @@
+body {
+	background: #001f00 url('../_db/_scenery/sky.gif') top center no-repeat;
+	background-size: 1000px;
+}
 #scene {
 	width: 600px;
 	height: 400px;

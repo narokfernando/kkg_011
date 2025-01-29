@@ -19,6 +19,10 @@
 	outline: 1px dashed grey;
 }
 
+.goto {
+	outline: 1px dashed grey;
+}
 .goto:hover {
 	cursor: pointer;
+
 }

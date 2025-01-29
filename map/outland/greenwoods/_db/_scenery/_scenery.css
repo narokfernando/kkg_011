@@ -1,3 +1,15 @@
+/*
+
+body.dark {
+	background: #001f00;
+}
+body.light {
+	background: #ddd;
+}
+*/
+
+
+
 .step {
 	background: url('step.gif') center center no-repeat;
 	background-size: contain;
@@ -6,23 +18,21 @@
 
 .lake {
 	width: 1000px;
-	height: 300px;
-	background: darkblue;
-	outline: 1px solid lightblue;
+	height: 400px !important;
+	background: url('lake.gif') center center no-repeat;
+	background-size: cover;
 }
 
 .bonfire {
 	width: 200px;
 	height: 200px;
-	background: orange;
-	outline: 1px solid yellow;
+	background: url('bonfire.gif') center center no-repeat;
+	background-size: contain;
 }
 
 .river {
-	width: 200px;
-	height: 600px;
-	background: blue;
-	outline: 1px solid lightblue;
+	background: url('river.gif') center center no-repeat;
+	background-size: contain;
 }
 
 .tree1 {
